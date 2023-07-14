@@ -1,5 +1,15 @@
-### Hi there 👋
 ![Alt Text](BANNER_IMARCKDEV.jpg)
+👋 Hi, I'm Marco Loaiza Delgado, aka iMarckDEV!
+
+🚀 Electrical engineer with 5+ years of tech industry experience.
+
+🎓 Master's degree in engineering, specializing in deep machine learning, IoT, and drones/robotics.
+
+☁️ Cloud consultant at AWS, skilled in backend data engineering and full-stack development (for some personal projects).
+
+💡 Curious and versatile with a wide range of hard and soft skills.
+
+🌟 Let's collaborate on exciting projects! Explore my repos and reach out!
 <!--
 **iMarckDEV/iMarckDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
