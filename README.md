@@ -1,7 +1,7 @@
 ![Alt Text](BANNER_IMARCKDEV.jpg)
 👋 Hi, I'm Marco Loaiza Delgado, aka iMarckDEV!
 
-🚀 Electrical engineer with 10 years of hybrid experience, including 5 years in electrical projects and 5 years in the tech industry.
+🚀 Electrical engineer with 10 years of hybrid experience, including 5 years in the tech industry and 5 years in electrical projects.
 
 🎓 Master's degree in engineering, specializing in deep machine learning, IoT, and drones/robotics.
 
