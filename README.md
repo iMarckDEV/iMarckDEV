@@ -1,11 +1,11 @@
 ![Alt Text](BANNER_IMARCKDEV.jpg)
 👋 Hi, I'm Marco Loaiza Delgado, aka iMarckDEV!
 
-🚀 Electrical engineer with 5+ years of tech industry experience.
+🚀 Electrical engineer with 10 years of hybrid experience, including 5 years in electrical projects and 5 years in the tech industry.
 
 🎓 Master's degree in engineering, specializing in deep machine learning, IoT, and drones/robotics.
 
-☁️ Cloud consultant at AWS, skilled in backend data engineering and full-stack development (for some personal projects).
+☁️ Cloud consultant at https://www.arkho.io in AWS Cloud, skilled in backend data engineering and developer.
 
 💡 Curious and versatile with a wide range of hard and soft skills.
 
